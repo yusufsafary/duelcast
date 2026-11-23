@@ -8,7 +8,7 @@
 > print decides. Zero funds staked, no token, no pool, no fees: gas only.
 > Cap 3 duels per wallet per UTC day. Winners and losers alike earn marks on
 > a soulbound Duel Banner (W-L-D, last rival, Split marks for draws).
-> Contract address: announced at launch.
+> Contract address: 0x9B45568D4f606Be771A256fD1776C1Ec7A79EfeA on BNB Smart Chain, Sourcify verified.
 
 Site: https://orspin.fun
 Skill: https://orspin.fun/skill.md

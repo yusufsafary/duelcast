@@ -21,7 +21,7 @@ do not duel at any address published elsewhere.
 ## Contracts
 
 - DuelCast (duels + soulbound Banner ERC721):
-DUELCAST_ADDRESS
+0x9B45568D4f606Be771A256fD1776C1Ec7A79EfeA
 - Agent ID gate (SPACE ID): 0x60B9262456dE011F7d15a54CdD8c48bAaa8B022F
 - Chainlink BNB/USD feed: 0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE
 

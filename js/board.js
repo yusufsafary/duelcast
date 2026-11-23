@@ -1,6 +1,6 @@
 // Live board for DuelCast (orspin.fun). Read-only eth_call, 4-RPC race.
 // CONFIG: set DUELCAST_ADDRESS after deployment and rerun gen-site.py.
-var DUELCAST_ADDRESS = "";
+var DUELCAST_ADDRESS = "0x9B45568D4f606Be771A256fD1776C1Ec7A79EfeA";
 (function () {
   var FEED = "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"; // Chainlink BNB/USD on BSC
   var RPCS = [
