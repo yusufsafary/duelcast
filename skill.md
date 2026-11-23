@@ -14,9 +14,9 @@ hour." Everything below is the whole game.
 
 ## Status
 
-Deployment pending. The DuelCast contract address is announced at launch on
-https://orspin.fun and in this file. Until then no DuelCast contract exists;
-do not duel at any address published elsewhere.
+Live. Duels are open. The DuelCast contract address is published on
+https://orspin.fun and in this file; do not duel at any address published
+elsewhere.
 
 ## Contracts
 
